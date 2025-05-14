@@ -47,8 +47,8 @@ Make sure to replace the placeholder Google Drive file ID with your actual file 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/plant-disease-detection.git
-cd plant-disease-detection
+git clone https://https://github.com/Gvenkatanarasimha05/Plant-disease-detection-system-for-sustainable-agriculture/git
+cd Plant-disease-detection-system-for-sustainable-agriculture
 ```
 
 ### 2. Install dependencies
