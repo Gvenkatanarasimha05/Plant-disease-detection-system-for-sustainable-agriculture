@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Detection for Sustainable Agriculture
+# 🌿 Plant Disease Detection for Sustainable Agriculture(AICTE)
 
 This project leverages deep learning to identify plant leaf diseases from images, aiding farmers and agricultural professionals in promoting healthier crops and supporting sustainable agricultural practices.
 
@@ -7,7 +7,7 @@ This project leverages deep learning to identify plant leaf diseases from images
 - 🌱 Upload a leaf image to detect plant diseases automatically.
 - 📷 Supports various plant types including tomato, potato, grape, apple, and more.
 - 🧠 Powered by a Convolutional Neural Network (CNN) trained on the PlantVillage dataset.
-- ☁️ Lightweight web application built with [Streamlit](https://streamlit.io/).
+- ☁️ Lightweight web application built with [Streamlit](https://plant-disease-detection-for-sustainable-agriculture.streamlit.app/).  LIVE MODEL
 - 🌍 Encourages early detection and prevention for sustainable farming.
 
 ---
@@ -78,8 +78,9 @@ streamlit run app.py
 
 | Image | Predicted Class |
 |-------|-----------------|
-| ![tomato](samples/tomato.jpg) | Tomato___Leaf_Mold |
-| ![apple](samples/apple.jpg)   | Apple___Black_rot  |
+| ![Screenshot 2025-05-14 224018](https://github.com/user-attachments/assets/01521d46-9d93-4402-9517-6d7654199e4c)
+|Strawberry_Leaf_scorch|
+
 
 ---
 
@@ -93,11 +94,6 @@ By enabling early and accurate disease detection, this tool supports:
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 🤝 Contributions
 
