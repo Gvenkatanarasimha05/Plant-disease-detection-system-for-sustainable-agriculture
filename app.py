@@ -38,6 +38,7 @@ class_names = [
 # st.set_page_config(page_title="Plant Disease Detection", page_icon="🌿")
 st.title("🌿 Plant Disease Detection using Deep Learning")
 st.write("Upload an image of a *plant leaf, and the app will predict the **disease* using a trained model.")
+st.write("This Model is not 100% Accurate")
 
 # File uploader
 uploaded_file = st.file_uploader("📷 Upload a leaf image (JPG, JPEG, PNG)", type=["jpg", "jpeg", "png"])
